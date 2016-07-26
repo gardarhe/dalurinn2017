@@ -1,2 +1,2 @@
 # dalurinn2017
-App fyrir dagskránna í dalnum
+App fyrir dagskrá Þjóðhátíðar
